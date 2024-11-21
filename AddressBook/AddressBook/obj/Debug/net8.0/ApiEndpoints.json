@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "AddressBook.Controllers.ContactsController",
+    "Method": "AllContacts",
+    "RelativePath": "Contacts/AllContacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBook.Controllers.ContactsController",
+    "Method": "ContactById",
+    "RelativePath": "Contacts/ContactById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBook.Controllers.ContactsController",
+    "Method": "CreateContact",
+    "RelativePath": "Contacts/CreateContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newContact",
+        "Type": "AddressBook.DTOs.ContactDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBook.Controllers.ContactsController",
+    "Method": "DeleteContact",
+    "RelativePath": "Contacts/DeleteContact/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBook.Controllers.ContactsController",
+    "Method": "UpdateContact",
+    "RelativePath": "Contacts/UpdateContact",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateContact",
+        "Type": "AddressBook.DTOs.ContactDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

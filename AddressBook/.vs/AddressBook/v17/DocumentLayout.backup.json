@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\AddressBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\services\\bettercontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\services\\bettercontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\addressbook.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\addressbook.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\mapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\mapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\mapper\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\mapper\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|c:\\users\\hp\\source\\repos\\addressbook\\addressbook\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECE7F-1FB6-44A8-9D3D-A8757D3807C7}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Program.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Program.cs",
+              "RelativeToolTip": "AddressBook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:30:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressBook.http",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\AddressBook.http",
+              "RelativeDocumentMoniker": "AddressBook\\AddressBook.http",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\AddressBook.http",
+              "RelativeToolTip": "AddressBook\\AddressBook.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-21T10:01:02.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Services\\ContactService.cs",
+              "RelativeToolTip": "AddressBook\\Services\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:00:25.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Services\\IContactService.cs",
+              "RelativeToolTip": "AddressBook\\Services\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:59:10.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BetterContactService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Services\\BetterContactService.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Services\\BetterContactService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Services\\BetterContactService.cs",
+              "RelativeToolTip": "AddressBook\\Services\\BetterContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:57:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Controllers\\ContactsController.cs*",
+              "RelativeToolTip": "AddressBook\\Controllers\\ContactsController.cs*",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:31:23.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Mapper\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Mapper\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Mapper\\AutoMapperConfig.cs",
+              "RelativeToolTip": "AddressBook\\Mapper\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:48:55.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Mapper\\MyMapper.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Mapper\\MyMapper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Mapper\\MyMapper.cs",
+              "RelativeToolTip": "AddressBook\\Mapper\\MyMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:49:59.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\DTO\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "AddressBook\\DTO\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\DTO\\ContactDTO.cs",
+              "RelativeToolTip": "AddressBook\\DTO\\ContactDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:46:53.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AddressBook\\AddressBook\\Models\\Contact.cs",
+              "RelativeToolTip": "AddressBook\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:37:35.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
